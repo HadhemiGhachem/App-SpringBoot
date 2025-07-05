@@ -32,5 +32,4 @@ Cette application est un système de gestion de bibliothèque développé en Jav
 
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/ton-utilisateur/nom-du-repo.git
-   cd nom-du-repo
+   git clone https://github.com/HadhemiGhachem/App-SpringBoot.git
