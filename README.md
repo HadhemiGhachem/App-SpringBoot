@@ -10,8 +10,6 @@ Cette application est un système de gestion de bibliothèque développé en Jav
 - ➕ Ajout, modification et suppression de livres
 - 👤 Gestion des utilisateurs (lecteurs et administrateurs)
 - 📆 Gestion des emprunts et des retours
-- 🔐 Authentification et autorisation des utilisateurs (Spring Security)
-- 📊 Tableau de bord pour l’administration
 
 ---
 
@@ -22,9 +20,8 @@ Cette application est un système de gestion de bibliothèque développé en Jav
 - Spring Data JPA
 - Spring Security
 - Hibernate
-- MySQL / PostgreSQL
+- MySQL 
 - Maven
-- (Optionnel) Thymeleaf ou Angular pour le front-end
 
 ---
 
